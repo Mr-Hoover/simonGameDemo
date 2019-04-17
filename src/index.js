@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import "./styles.scss";
+import "./styles.css";
 
 const sound1 = new Audio(
   "http://s3.amazonaws.com/freecodecamp/simonSound1.mp3"
