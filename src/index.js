@@ -180,11 +180,11 @@ class App extends React.Component {
               <div className="Buttons">
                 <div className="top">
                   <button onClick={() => this.startGame()} />
-                  <p> START</p>
+                  <p> START </p>
                 </div>
                 <div className="bottom">
                   <button onClick={() => this.blinkEach()} />
-                  <p>REPLAY</p>
+                  <p> REPLAY </p>
                 </div>
               </div>
             </div>
