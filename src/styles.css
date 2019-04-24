@@ -108,7 +108,8 @@ img {
   background: Gray;
   display: Flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 
 button {
